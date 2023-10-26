@@ -1,4 +1,4 @@
-,gender,length,diameter,height,total weight,shucked weight,viscera weight,shell weight,age
+gender,length,diameter,height,total weight,shucked weight,viscera weight,shell weight,age
 0,0,0.695,0.55,0.215,1.9565,0.7125,0.541,0.59,1
 1,2,0.345,0.27,0.11,0.2135,0.082,0.0545,0.07,0
 2,0,0.655,0.54,0.215,1.844,0.7425,0.327,0.585,2
